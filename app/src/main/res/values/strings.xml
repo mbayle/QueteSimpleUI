@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quête Simple UI</string>
+    <string name="WelcomeText">Welcome to Wild Code School</string>
+    <string name="EditText1">Nom </string>
+    <string name="EditText2">Prénom</string>
+    <string name="CheckboxText">Je souhaite devenir un Wilder</string>
+    <string name="Button">Valider</string>
+    <string name="Toast">Tu dois renseigner le nom et le prénom !!! </string>
+    <string name="Bravo">Félicitations </string>
+</resources>
